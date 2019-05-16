@@ -1,0 +1,12 @@
+D:\All Demo\Invoice\netcore\bin\Debug\netcoreapp2.0\netcore.deps.json
+D:\All Demo\Invoice\netcore\bin\Debug\netcoreapp2.0\netcore.runtimeconfig.json
+D:\All Demo\Invoice\netcore\bin\Debug\netcoreapp2.0\netcore.runtimeconfig.dev.json
+D:\All Demo\Invoice\netcore\bin\Debug\netcoreapp2.0\netcore.dll
+D:\All Demo\Invoice\netcore\bin\Debug\netcoreapp2.0\netcore.pdb
+D:\All Demo\Invoice\netcore\obj\Debug\netcoreapp2.0\netcore.csprojAssemblyReference.cache
+D:\All Demo\Invoice\netcore\obj\Debug\netcoreapp2.0\netcore.csproj.CoreCompileInputs.cache
+D:\All Demo\Invoice\netcore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\All Demo\Invoice\netcore\obj\Debug\netcoreapp2.0\netcore.AssemblyInfoInputs.cache
+D:\All Demo\Invoice\netcore\obj\Debug\netcoreapp2.0\netcore.AssemblyInfo.cs
+D:\All Demo\Invoice\netcore\obj\Debug\netcoreapp2.0\netcore.dll
+D:\All Demo\Invoice\netcore\obj\Debug\netcoreapp2.0\netcore.pdb
